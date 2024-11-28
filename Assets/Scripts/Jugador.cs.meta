@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 184df2dd6129b0140aa2d526d470ead5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb2d: {instanceID: 0}
+  - disparo: {fileID: 9165324175616051939, guid: 3cc5e2d99aa0dce44a06f9b076f4d944, type: 3}
+  - arma: {instanceID: 0}
+  - bala: {instanceID: 0}
+  - Salto: {instanceID: 0}
+  - Shoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
